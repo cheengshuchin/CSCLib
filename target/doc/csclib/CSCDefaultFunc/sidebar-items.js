@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CSCDARG","CSCDARG is Structure Data Type to Keep Track Parameter Changes Struct for CSCDARG"]]});
