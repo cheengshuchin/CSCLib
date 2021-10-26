@@ -1,1 +1,1 @@
-C:\Users\cheen\projects\csclib\target\release\libcsclib.rlib: C:\Users\cheen\projects\csclib\src\lib.rs
+D:\CSCLib\target\release\libcsclib.rlib: D:\CSCLib\src\lib.rs

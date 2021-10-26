@@ -1,1 +1,1 @@
-C:\Users\cheen\projects\csclib\target\debug\csclib.exe: C:\Users\cheen\projects\csclib\src\lib.rs C:\Users\cheen\projects\csclib\src\main.rs
+D:\CSCLib\target\debug\csclib.exe: D:\CSCLib\src\lib.rs D:\CSCLib\src\main.rs
