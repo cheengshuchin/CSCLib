@@ -1,6 +1,6 @@
 [package]
 name = "csclib"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 description = "My Collection of Utilities to Make Life Easy and More Convenient. This will wrap and modify existing function to support cache or default/dynamic parameter. :) ."
 license = "MIT OR Apache-2.0"
